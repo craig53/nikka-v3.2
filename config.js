@@ -18,8 +18,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaoLotu42Dch
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/bh2fpj.jpg";
 global.devs = "2348121373516";
-global.sudo = process.env.SUDO || "2349112171078";
-global.owner = process.env.OWNER_NUMBER || "2349112171078";
+global.sudo = process.env.SUDO || "263776821766";
+global.owner = process.env.OWNER_NUMBER || "263776821766";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "HAKI",
   packname: process.env.PACK_NAME || "KING",
   botname: process.env.BOT_NAME || "NIKKA-V3",
-  ownername: process.env.OWNER_NAME || "HAKI",
+  ownername: process.env.OWNER_NAME || "RIDDLER",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
