@@ -69,7 +69,7 @@ astro_patch.smd({
 
     // Send the image with the menu
     await context.send(
-      "https://f.uguu.se/pdVQzJxx.jpg", // Replace with your image URL
+      "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
       { caption: finalMessage },
       "img",
       message
